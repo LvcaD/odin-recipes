@@ -1,0 +1,1 @@
+This project is focused on practising the command line, git and html skills I have learnt by building a recipe "website"
